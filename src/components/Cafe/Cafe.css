@@ -1,0 +1,26 @@
+.cafe-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.blogs{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+.timeSpent{
+    width: 411px;
+    height: 80px;
+    border: 1px solid #6047EC;
+    border-radius: 7px;
+    background-color: #EEE; 
+    text-align: center;
+    position: sticky;
+    top: 0;
+}
+.bookmark{
+    width: 411px;
+    height: 80px;
+    border-radius: 7px;
+    background-color: #EEE;
+    position: sticky;
+    top: 0;
+}

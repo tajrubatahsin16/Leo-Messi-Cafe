@@ -1,0 +1,11 @@
+.BlogCom{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);;
+}
+.bl{
+    width: 320px;
+    height: 350px;
+    text-align: center;
+    border: 1px solid #EEE;
+    border-radius: 7px;
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "6427f92c93829d064152c502",
+    "authorName": "Hurst Luna",
+    "blogTitle": "How to get your first job as a self-taught programmer",
+    "blogCover": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "authorImage": "https://cdn.wallpapersafari.com/77/59/s71ixH.jpg",
+    "readTime": "5 min read",
+    "publishDate": "May 14 (4 days ago)"
+  },
+  {
+    "_id": "6427f92c6b033ecc416f9cdd",
+    "authorName": "Ernestine Aguilar",
+    "blogTitle": "How to get your first job as a self-taught programmer",
+    "blogCover": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "authorImage": "https://st1.latestly.com/wp-content/uploads/2022/12/Lionel-Messi-6.jpg",
+    "readTime": "13 min read",
+    "publishDate": "May 14 (4 days ago)"
+  },
+  {
+    "_id": "6427f92c84ea2fdea29107d4",
+    "authorName": "Chang Salinas",
+    "blogTitle": "How to get your first job as a self-taught programmer",
+    "blogCover": "https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "authorImage": "https://free4kwallpapers.com/uploads/originals/2016/04/28/leo-messi-wallpaper.jpg",
+    "readTime": "14 min read",
+    "publishDate": "May 14 (4 days ago)"
+  },
+  {
+    "_id": "6427f92c35c483b9a9e626ca",
+    "authorName": "Dona Sullivan",
+    "blogTitle": "How to get your first job as a self-taught programmer",
+    "blogCover": "https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=739&q=80",
+    "authorImage": "https://uhdwallpapers.org/uploads/cache/2330268420/leo-messi-wallpaper_600x338-mm-90.jpg",
+    "readTime": "12 min read",
+    "publishDate": "May 14 (4 days ago)"
+  }
+]
